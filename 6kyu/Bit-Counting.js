@@ -2,6 +2,8 @@
 
 // Example: The binary representation of 1234 is 10011010010, so the function should return 5 in this case
 
+/* Solution */
+
 var countBits = function (n) {
   //Convert to binary format
   let binaryValue = n.toString(2);
